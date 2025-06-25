@@ -2,9 +2,9 @@
   "system": "SchoolBright",
   "environment": "production",
   "version": "v1.93.99",
-  "updated_at": "2025-06-25T10:12:15+00:00",
-  "description": "Fix: enhance tag fetching logic to ensure all tags are retrieved",
+  "updated_at": "2025-06-25T10:15:08+00:00",
+  "description": "Fix: enhance workflow step names for clarity and consistency",
   "deployed_by": "thanatschoolbright",
   "repo": "sb-web-system",
-  "build": "d53ac8f"
+  "build": "a85aba4"
 }
