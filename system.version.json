@@ -1,10 +1,10 @@
 {
   "system": "SchoolBright",
   "environment": "production",
-  "version": "0.0.0",
-  "updated_at": "2025-06-25T10:08:26+00:00",
-  "description": "Fix: ensure tags are fetched before retrieving the latest tag version",
+  "version": "v1.93.99",
+  "updated_at": "2025-06-25T10:10:21+00:00",
+  "description": "Fix: update logic to retrieve the latest tag version in version control workflow",
   "deployed_by": "thanatschoolbright",
   "repo": "sb-web-system",
-  "build": "6ee96bb"
+  "build": "58af338"
 }
