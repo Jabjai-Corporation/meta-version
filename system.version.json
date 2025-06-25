@@ -2,9 +2,9 @@
   "system": "SchoolBright",
   "environment": "production",
   "version": "",
-  "updated_at": "2025-06-25T10:00:27+00:00",
-  "description": "Merge pull request #149 from Jabjai-Corporation/fix/ci-cd.v2",
+  "updated_at": "2025-06-25T10:02:17+00:00",
+  "description": "Merge pull request #148 from Jabjai-Corporation/fix/ci-cd.v2",
   "deployed_by": "Tech Lead - Light",
   "repo": "sb-web-system",
-  "build": "6321da9"
+  "build": "59303f1"
 }
