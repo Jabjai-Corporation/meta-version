@@ -2,9 +2,9 @@
   "system": "SchoolBright",
   "environment": "production",
   "version": "0.0.0",
-  "updated_at": "2025-06-25T10:06:24+00:00",
-  "description": "Fix: update fetch-depth configuration and handle missing tags in version retrieval",
+  "updated_at": "2025-06-25T10:08:26+00:00",
+  "description": "Fix: ensure tags are fetched before retrieving the latest tag version",
   "deployed_by": "thanatschoolbright",
   "repo": "sb-web-system",
-  "build": "c880570"
+  "build": "6ee96bb"
 }
