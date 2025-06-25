@@ -2,9 +2,9 @@
   "system": "SchoolBright",
   "environment": "production",
   "version": "v1.93.99",
-  "updated_at": "2025-06-25T10:10:21+00:00",
-  "description": "Fix: update logic to retrieve the latest tag version in version control workflow",
+  "updated_at": "2025-06-25T10:12:15+00:00",
+  "description": "Fix: enhance tag fetching logic to ensure all tags are retrieved",
   "deployed_by": "thanatschoolbright",
   "repo": "sb-web-system",
-  "build": "58af338"
+  "build": "d53ac8f"
 }
