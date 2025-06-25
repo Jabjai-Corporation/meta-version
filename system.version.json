@@ -2,8 +2,9 @@
   "system": "SchoolBright",
   "environment": "production",
   "version": "1.3.3",
-  "updated_at": "2025-06-25T16:18:49+07:00",
-  "description": "Initial release of centralized version tracking",
-  "deployed_by": "thanatschoolbright",
-  "repo": "sb-api-hardware"
+  "updated_at": "2025-06-25T09:48:08+00:00",
+  "description": "Merge pull request #148 from Jabjai-Corporation/fix/ci-cd.v2",
+  "deployed_by": "Tech Lead - Light",
+  "repo": "sb-web-system",
+  "build": "59303f1"
 }
