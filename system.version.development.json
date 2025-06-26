@@ -1,9 +1,11 @@
 {
-  "system": "SchoolBright",
+  "system": "SchoolBright-System",
   "environment": "development",
+  "branch": "release/development",
   "version": "v.2.0.0",
-  "updated_at": "2025-06-26T02:45:20+00:00",
-  "description": "Merge pull request #141 from Jabjai-Corporation/backlog/SBAPP-1240",
-  "deployed_by": "tanakongsengwan",
+  "build": "a602ece",
+  "updated_at": "2025-06-26T02:49:28+00:00",
+  "description": "Enhance version metadata with branch and build info",
+  "deployed_by": "thanatschoolbright",
   "repo": "sb-web-system"
 }
